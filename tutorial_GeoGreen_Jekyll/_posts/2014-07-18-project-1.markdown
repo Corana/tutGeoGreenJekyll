@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 1
+title: getting_started
+date: 2014-07-18
+
+blogTitle: Getting Started
+underTitle: Anmeldung/ Registrierung
+client: Corana Seewald
+project-date: 26. Januar 2017
+category: Web Development
+img: anmeldenGeoGreen.PNG
+---
+Registrierung: „create account" --> „Username“, „Email“ und „Passwort“ eingeben und bestätigen  
+Anmeldung: „Username“ oder „Email“ und „Passwort“ eingeben und bestätigen
+

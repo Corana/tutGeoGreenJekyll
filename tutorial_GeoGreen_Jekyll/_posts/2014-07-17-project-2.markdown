@@ -1,0 +1,22 @@
+---
+layout: default
+modal-id: 2
+title: getting_started
+date: 2014-07-17
+
+blogTitle: Quests 
+underTitle: Quest erstellen
+client: Corana Seewald
+project-date: 26. Januar 2017
+client: Corana Seewald
+category: Web Development
+img: questErstellenGeoGreen.PNG
+---
+  
+    
+      
+#### Was ist eine Quest?
+Quests stellen Aufgaben bzw. Missionen dar, die jeweiligen Verschmutzung zu bereinigen.  
+  
+#### Wie erstelle ich eine Quest?
+Du brauchst nur ein Doppelklick auf den Standort der Umweltverschmutzung machen, Felder ausfüllen und mit „Erstellen“ bestätigen.

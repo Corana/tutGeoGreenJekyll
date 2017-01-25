@@ -1,0 +1,18 @@
+---
+layout: default
+modal-id: 3
+title: getting_started
+date: 2014-07-16
+
+blogTitle: Quest bearbeiten
+underTitle: Ändern der Questeingaben
+client: Corana Seewald
+project-date: 26. Januar 2017
+client: Corana Seewald
+category: Web Development
+img: questBearbeitenGeoGreen.PNG
+---
+
+Als Quest-Ersteller kannst du deine erstellten Quests selber ändern.  
+Gehe dazu auf die Quest auf der Karte und klicke „bearbeiten“.
+
