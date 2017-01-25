@@ -59,3 +59,4 @@ credits: 'GeoGreen is a free to use, open source tool: <a>Link GeoGreen</a>.'
 # Build settings
 markdown: kramdown
 permalink: pretty
+
